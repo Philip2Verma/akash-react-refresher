@@ -1,0 +1,15 @@
+.userContainer {
+    margin: 1rem;
+}
+
+.user {
+    display: flex;
+    border: 1px #404040 solid;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 6px;
+    align-items: center;
+    box-shadow: 0 1px 8px #ccc;
+    background-color: #ccc;
+}
